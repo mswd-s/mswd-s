@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mswd-s
 - 👀 I’m interested in DSA.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Flutter and blockchain
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me ...
 
