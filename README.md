@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student<br>DSA<br>Open Source<br>
+Student<br>Data Structures<br>Open Source<br>Ethereum<br>Web3<br>
 
 
 ## 🌐 Socials:
