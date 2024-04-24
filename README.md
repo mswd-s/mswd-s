@@ -1,9 +1,9 @@
-# 💫 About Me: Hi, I'm MD MASWOOD ALAM
+# 💫 About Me: Hi,👋 I'm MD MASWOOD ALAM
 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maswood-alam-aa9016243) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/@maswood_xyz) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maswood-alam-aa9016243)
 
 
 # 📊 GitHub Stats:
