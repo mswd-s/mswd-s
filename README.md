@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student<br>Data Structures<br>Open Source<br>Ethereum<br>Web3<br>
+MD MASWOOD ALAM <br>
 
 
 ## 🌐 Socials:
